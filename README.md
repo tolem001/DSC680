@@ -1,3 +1,3 @@
 DSC 680 Applied Data Science,
 Bellevue University.
-This repository will contain three projects completed for DSC680.
+This repository will contain three projects completed for DSC 680.
